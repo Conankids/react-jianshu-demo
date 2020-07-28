@@ -14,7 +14,7 @@
 释放webpack配置文件，（一次性操作，操作后不能复原项目）
 
 <details>
-  <summary>标题</summary>
+  <summary>Learn More</summary>
     
   ### More Study
       
