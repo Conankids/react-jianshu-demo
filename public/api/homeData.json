@@ -1,0 +1,144 @@
+{
+  "success": true,
+  "data": {
+    "recommendList": [
+      {
+        "id": 1,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 3,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 4,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 5,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 6,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 7,
+        "title": "摄影",
+        "imgUrl": "https://upload.jianshu.io/collections/images/83/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "一图搞懂原型",
+        "desc": "原型 定义函数时，解析会为它添加一个 prototype 属性，默认总是指向一个对象，即原型对象。如果把函数作为普通函数调用，prototype...",
+        "imgUrl": "//s2.jiguo.com/6b216c3f-43e0-48f0-863c-7a636132cfdd/640?imageView2/1/w/360/h/240/q/100",
+        "nickname": "hellomyshadow",
+        "comment": 19,
+        "prise": 100
+      },
+      {
+        "id": 2,
+        "title": "一图搞懂原型",
+        "desc": "原型 定义函数时，解析会为它添加一个 prototype 属性，默认总是指向一个对象，即原型对象。如果把函数作为普通函数调用，prototype...",
+        "imgUrl": "//s2.jiguo.com/6b216c3f-43e0-48f0-863c-7a636132cfdd/640?imageView2/1/w/360/h/240/q/100",
+        "nickname": "hellomyshadow",
+        "comment": 19,
+        "prise": 100
+      },
+      {
+        "id": 3,
+        "title": "一图搞懂原型",
+        "desc": "原型 定义函数时，解析会为它添加一个 prototype 属性，默认总是指向一个对象，即原型对象。如果把函数作为普通函数调用，prototype...",
+        "imgUrl": "//s2.jiguo.com/6b216c3f-43e0-48f0-863c-7a636132cfdd/640?imageView2/1/w/360/h/240/q/100",
+        "nickname": "hellomyshadow",
+        "comment": 19,
+        "prise": 100
+      },
+      {
+        "id": 4,
+        "title": "一图搞懂原型",
+        "desc": "原型 定义函数时，解析会为它添加一个 prototype 属性，默认总是指向一个对象，即原型对象。如果把函数作为普通函数调用，prototype...",
+        "imgUrl": "//s2.jiguo.com/6b216c3f-43e0-48f0-863c-7a636132cfdd/640?imageView2/1/w/360/h/240/q/100",
+        "nickname": "hellomyshadow",
+        "comment": 19,
+        "prise": 100
+      },
+      {
+        "id": 5,
+        "title": "一图搞懂原型",
+        "desc": "原型 定义函数时，解析会为它添加一个 prototype 属性，默认总是指向一个对象，即原型对象。如果把函数作为普通函数调用，prototype...",
+        "imgUrl": "//s2.jiguo.com/6b216c3f-43e0-48f0-863c-7a636132cfdd/640?imageView2/1/w/360/h/240/q/100",
+        "nickname": "hellomyshadow",
+        "comment": 19,
+        "prise": 100
+      }
+    ],
+    "boardList":[
+      {
+        "id": 1,
+        "imgUrl": "board1.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "board2.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "board3.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "board4.png"
+      }
+    ],
+    "authorList":[
+      {
+        "id": 1,
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/7663825/7c28763e-002b-4e89-8dea-5b8da210ef2c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "nickname": "名贵的考拉熊",
+        "word": "267.7",
+        "star": "19.5"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "nickname": "董克平日记",
+        "word": "1046.5",
+        "star": "4.3"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/6652326/ba6106f4-20eb-4735-885d-561083bd4e55.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "nickname": "没文化的野狐狸",
+        "word": "306.7",
+        "star": "6.1"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/278/0778727c-c557-4ffb-929c-6ee182a58145.png?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "nickname": "邓哲",
+        "word": "433.9",
+        "star": "1.4"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "nickname": "严璐说",
+        "word": "1789.1",
+        "star": "32.9"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+export const GET_HOME_LIST = 'home/GET_HOME_LIST'
+export const GET_MORE_ARTICLE_LIST = 'home/GET_MORE_ARTICLE_LIST'
+export const CHANGE_AUTHOR_LIST = 'home/CHANGE_AUTHOR_LIST'
+export const TOGGLE_BACK_TOP_SHOW = 'home/TOGGLE_BACK_TOP_SHOW'
